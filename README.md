@@ -12,7 +12,7 @@ Simple todo list powered by smart contracts. Understand how blockchain works and
 * [Chai](https://www.chaijs.com/) - Assertion Library 
 * [Node.js](https://nodejs.org/en/)
 
-## Deployment 
+## For Deployment 
 ```bash
 # Clone 
 $ https://github.com/kenneth-liang/Ethereum-Todo-List-.git
@@ -27,3 +27,10 @@ truffle migrate --reset
 # Run the app
 $ npm run dev
 ```
+
+![WhatsApp Image 2024-12-17 at 21 04 00_bea7e0fc](https://github.com/user-attachments/assets/aeb2e2ad-3fef-4b11-9da8-714e814b17e1)
+
+![WhatsApp Image 2024-12-17 at 21 02 50_7fc498a5](https://github.com/user-attachments/assets/fd958eca-287b-406e-a52e-595a061c4695)
+![image](https://github.com/user-attachments/assets/1cf7f3c5-68d9-4b08-9d7c-11aefdfaccbb)
+![image](https://github.com/user-attachments/assets/42ef2649-08fa-49a0-afff-548c0234124b)
+![image](https://github.com/user-attachments/assets/3ecb6b18-7db9-4ae5-a049-24bbdc759243)
