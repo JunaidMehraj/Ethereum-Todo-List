@@ -15,7 +15,7 @@ Simple todo list powered by smart contracts. Understand how blockchain works and
 ## For Deployment 
 ```bash
 # Clone 
-$ https://github.com/kenneth-liang/Ethereum-Todo-List-.git
+$ https://github.com/Atheeqxcode/Ethereum-Todo-List.git
 
 # Install dependencies 
 $ npm install -g truffle@5.0.2
